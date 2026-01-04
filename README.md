@@ -1,6 +1,6 @@
 # responsive_ui_sample_1
 
-A new Flutter project.
+Shows How to Abstract (reuse components in different layouts), Measure (using LayoutBuilder), Branch(Using Break Points to change layout for phone, tablet and desktop)
 
 ## Getting Started
 
